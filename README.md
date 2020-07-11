@@ -1,4 +1,4 @@
-Lchika2
+Lchika3
 
 D3port～D8port に接続したLED を1 秒毎に点灯するサンプルプログラムです
 
